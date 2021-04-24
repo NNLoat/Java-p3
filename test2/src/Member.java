@@ -1,7 +1,6 @@
 
 import java.util.ArrayList;
 public class Member {
-	//fuck u
 	protected String email;
 	protected String password;
 	protected ArrayList<Video> videoList = new ArrayList<Video>();
