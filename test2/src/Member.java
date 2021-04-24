@@ -1,6 +1,7 @@
 
 import java.util.ArrayList;
 public class Member {
+	///test
 	protected String email;
 	protected String password;
 	protected ArrayList<Video> videoList = new ArrayList<Video>();
